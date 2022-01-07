@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning BlockChain, Web3.0, React.
 - 👯 I’m looking to collaborate on open-source project
 - 🤔 I’m looking for help with internships and guidance on blockchain
-- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/nishant-shenoy-b91620155/
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nishant-shenoy-b91620155/) | [Instagram](https://www.instagram.com/nishant_shenoy83/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I know how to solve Rubik's cube
+- ⚡ Fun fact: I know how to solve 3x3 Rubik's cube
 
